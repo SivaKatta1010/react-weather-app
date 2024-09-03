@@ -40,3 +40,4 @@ The **Weather App** allows users to view the current weather, hourly forecast, a
 
 - **Components**: SearchBar, WeatherDisplay, HourlyForecast, DailyForecast, Precipitation, TabNavigation
 - **API Integration**: Fetches current, hourly, and daily weather data.
+- **Sample Video**: It is available in /images/samples/sample_video.mp4
